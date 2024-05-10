@@ -1,12 +1,10 @@
-package automationSourceCode;
+package automationsourcecode;
 
-import commonUtilities.Init;
+import commonutilities.Init;
 import org.openqa.selenium.By;
 
-import java.util.logging.Logger;
-
-import static automationSourceCode.Internshala_Locators.*;
-import static commonUtilities.Constants.*;
+import static automationsourcecode.Internshala_Locators.*;
+import static commonutilities.Constants.*;
 
 public class Internshala_Utils implements Init {
 

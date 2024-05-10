@@ -1,4 +1,4 @@
-package commonUtilities;
+package commonutilities;
 
 import org.openqa.selenium.Keys;
 

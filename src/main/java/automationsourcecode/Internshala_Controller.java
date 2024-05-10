@@ -1,11 +1,7 @@
-package automationSourceCode;
+package automationsourcecode;
 
-import commonUtilities.Init;
-import driverInitialization.Initialize_Driver;
-import org.openqa.selenium.By;
+import driverinitialization.Initialize_Driver;
 import org.testng.annotations.Test;
-
-import static automationSourceCode.Internshala_Locators.*;
 
 public class Internshala_Controller extends Initialize_Driver{
 

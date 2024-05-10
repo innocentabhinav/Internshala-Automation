@@ -1,4 +1,4 @@
-package automationSourceCode;
+package automationsourcecode;
 
 import org.openqa.selenium.By;
 

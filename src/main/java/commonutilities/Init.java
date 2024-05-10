@@ -1,4 +1,4 @@
-package commonUtilities;
+package commonutilities;
 
 public interface Init {
     Visible visible=new Visible();

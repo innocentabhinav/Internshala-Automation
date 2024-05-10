@@ -1,6 +1,6 @@
-package commonUtilities;
+package commonutilities;
 
-import driverInitialization.Initialize_Driver;
+import driverinitialization.Initialize_Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
