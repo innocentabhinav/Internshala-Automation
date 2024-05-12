@@ -10,5 +10,16 @@
         </classes>
     </test>
 
+    <test name="Profile_Options">
+        <classes>
+            <class name="automationsourcecode.Internshala_Controller">
+                <methods>
+                    <include name="Application_Section"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
 
 </suite>

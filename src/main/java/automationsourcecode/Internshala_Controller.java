@@ -12,6 +12,13 @@ public class Internshala_Controller extends Initialize_Driver{
         internshala_utils.Login_To_Internshala();
     }
 
+    @Test
+    public void Application_Section(){
+        internshala_utils.Navigate_To_Application_Page();
+    }
+
+
+
 
 
 }

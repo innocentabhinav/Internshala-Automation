@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.logging.Logger;
 
 public class Visible extends Initialize_Driver implements Init{
-    Logger log;
+    private static final Logger log = Logger.getLogger(Visible.class.getName());
     private int pause_Time = 0;
 
     public  void Wait_For_Page_To_Load() {
